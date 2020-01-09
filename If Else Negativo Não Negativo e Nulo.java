@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Main {
 
+/* Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.(Adicionei a opção de "NULO") */
+	
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
