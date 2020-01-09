@@ -16,6 +16,7 @@ public class Main {
 		int minutos = sc.nextInt();
 
 		double conta = 50.0;
+		
 		if (minutos > 100) {
 			conta += (minutos - 100) * 2.0;
 		}
